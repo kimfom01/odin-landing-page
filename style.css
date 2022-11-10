@@ -158,5 +158,24 @@ button {
 }
 
 .fourth-section .content {
-    
+    display: flex;
+    justify-content: space-evenly;
+    background: #3882f6;
+    border-radius: 5px;
+    padding: 20px 30px;
 }
+
+.fourth-section {
+    padding: 50px 100px;
+    color: #fff;
+}
+
+.call {
+    font-weight: 900;
+}
+
+.sign-up {
+    border: 2px solid #fff;
+    padding: 0 10px 0 10px;
+}
+
