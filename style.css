@@ -179,3 +179,10 @@ button {
     padding: 0 10px 0 10px;
 }
 
+.footer{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
